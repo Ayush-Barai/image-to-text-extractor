@@ -22,7 +22,7 @@ This Python script uses OpenCV and Tesseract OCR to extract text from images. It
 
 ---
 
-## 🔧 Installation (if you running this on your own machine )
+## 🔧 Installation (if you running this on your machine )
 
 step 1 :
 ```bash
