@@ -62,5 +62,3 @@ for cnt in contours:
 
     # Close the file
     file.close()
-
-# This code is modified by Susobhan Akhuli
